@@ -1,0 +1,252 @@
+[
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/main.cc.o -c /home/xyt/UT/zj_end/main.cc",
+  "file": "/home/xyt/UT/zj_end/main.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/behaviors/behavior.cc.o -c /home/xyt/UT/zj_end/behaviors/behavior.cc",
+  "file": "/home/xyt/UT/zj_end/behaviors/behavior.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/behaviors/naobehavior.cc.o -c /home/xyt/UT/zj_end/behaviors/naobehavior.cc",
+  "file": "/home/xyt/UT/zj_end/behaviors/naobehavior.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/behaviors/checkfall.cc.o -c /home/xyt/UT/zj_end/behaviors/checkfall.cc",
+  "file": "/home/xyt/UT/zj_end/behaviors/checkfall.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/behaviors/kicking.cc.o -c /home/xyt/UT/zj_end/behaviors/kicking.cc",
+  "file": "/home/xyt/UT/zj_end/behaviors/kicking.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/behaviors/strategy.cc.o -c /home/xyt/UT/zj_end/behaviors/strategy.cc",
+  "file": "/home/xyt/UT/zj_end/behaviors/strategy.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/behaviors/pkbehaviors.cc.o -c /home/xyt/UT/zj_end/behaviors/pkbehaviors.cc",
+  "file": "/home/xyt/UT/zj_end/behaviors/pkbehaviors.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/behaviors/gazebobehavior.cc.o -c /home/xyt/UT/zj_end/behaviors/gazebobehavior.cc",
+  "file": "/home/xyt/UT/zj_end/behaviors/gazebobehavior.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/behaviors/simplesoccer.cc.o -c /home/xyt/UT/zj_end/behaviors/simplesoccer.cc",
+  "file": "/home/xyt/UT/zj_end/behaviors/simplesoccer.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/servercomm/primitives.cc.o -c /home/xyt/UT/zj_end/servercomm/primitives.cc",
+  "file": "/home/xyt/UT/zj_end/servercomm/primitives.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/parser/parser.cc.o -c /home/xyt/UT/zj_end/parser/parser.cc",
+  "file": "/home/xyt/UT/zj_end/parser/parser.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/math/hctmatrix.cc.o -c /home/xyt/UT/zj_end/math/hctmatrix.cc",
+  "file": "/home/xyt/UT/zj_end/math/hctmatrix.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/math/vecposition.cc.o -c /home/xyt/UT/zj_end/math/vecposition.cc",
+  "file": "/home/xyt/UT/zj_end/math/vecposition.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/math/Geometry.cc.o -c /home/xyt/UT/zj_end/math/Geometry.cc",
+  "file": "/home/xyt/UT/zj_end/math/Geometry.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/worldmodel/worldmodel.cc.o -c /home/xyt/UT/zj_end/worldmodel/worldmodel.cc",
+  "file": "/home/xyt/UT/zj_end/worldmodel/worldmodel.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/bodymodel/bodymodel.cc.o -c /home/xyt/UT/zj_end/bodymodel/bodymodel.cc",
+  "file": "/home/xyt/UT/zj_end/bodymodel/bodymodel.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/particlefilter/PFLocalization.cc.o -c /home/xyt/UT/zj_end/particlefilter/PFLocalization.cc",
+  "file": "/home/xyt/UT/zj_end/particlefilter/PFLocalization.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/particlefilter/Particle.cc.o -c /home/xyt/UT/zj_end/particlefilter/Particle.cc",
+  "file": "/home/xyt/UT/zj_end/particlefilter/Particle.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/skills/skill.cc.o -c /home/xyt/UT/zj_end/skills/skill.cc",
+  "file": "/home/xyt/UT/zj_end/skills/skill.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/skills/curve3d.cc.o -c /home/xyt/UT/zj_end/skills/curve3d.cc",
+  "file": "/home/xyt/UT/zj_end/skills/curve3d.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/ikfast/ikfast.cpp.o -c /home/xyt/UT/zj_end/ikfast/ikfast.cpp",
+  "file": "/home/xyt/UT/zj_end/ikfast/ikfast.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/headers/headers.cc.o -c /home/xyt/UT/zj_end/headers/headers.cc",
+  "file": "/home/xyt/UT/zj_end/headers/headers.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/audio/audio.cc.o -c /home/xyt/UT/zj_end/audio/audio.cc",
+  "file": "/home/xyt/UT/zj_end/audio/audio.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/rvdraw/rvdraw.cc.o -c /home/xyt/UT/zj_end/rvdraw/rvdraw.cc",
+  "file": "/home/xyt/UT/zj_end/rvdraw/rvdraw.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/MotionCore.cpp.o -c /home/xyt/UT/zj_end/utwalk/MotionCore.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/MotionCore.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/Module.cpp.o -c /home/xyt/UT/zj_end/utwalk/Module.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/Module.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/common/NMatrix.cpp.o -c /home/xyt/UT/zj_end/utwalk/common/NMatrix.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/common/NMatrix.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/math/MVTools.cpp.o -c /home/xyt/UT/zj_end/utwalk/math/MVTools.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/math/MVTools.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/math/RotationMatrix.cpp.o -c /home/xyt/UT/zj_end/utwalk/math/RotationMatrix.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/math/RotationMatrix.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/memory/Lock.cpp.o -c /home/xyt/UT/zj_end/utwalk/memory/Lock.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/memory/Lock.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/memory/Logger.cpp.o -c /home/xyt/UT/zj_end/utwalk/memory/Logger.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/memory/Logger.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/memory/Memory.cpp.o -c /home/xyt/UT/zj_end/utwalk/memory/Memory.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/memory/Memory.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/memory/MemoryBlock.cpp.o -c /home/xyt/UT/zj_end/utwalk/memory/MemoryBlock.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/memory/MemoryBlock.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/memory/PrivateMemory.cpp.o -c /home/xyt/UT/zj_end/utwalk/memory/PrivateMemory.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/memory/PrivateMemory.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/memory/SharedMemory.cpp.o -c /home/xyt/UT/zj_end/utwalk/memory/SharedMemory.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/memory/SharedMemory.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/motion/MotionModule.cpp.o -c /home/xyt/UT/zj_end/utwalk/motion/MotionModule.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/motion/MotionModule.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/motion/UTWalkEngine.cpp.o -c /home/xyt/UT/zj_end/utwalk/motion/UTWalkEngine.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/motion/UTWalkEngine.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/sensor/SensorModule.cpp.o -c /home/xyt/UT/zj_end/utwalk/sensor/SensorModule.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/sensor/SensorModule.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/sensor/InertialFilter.cpp.o -c /home/xyt/UT/zj_end/utwalk/sensor/InertialFilter.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/sensor/InertialFilter.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/kinematics/InverseKinematics.cpp.o -c /home/xyt/UT/zj_end/utwalk/kinematics/InverseKinematics.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/kinematics/InverseKinematics.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/kinematics/ForwardKinematics.cpp.o -c /home/xyt/UT/zj_end/utwalk/kinematics/ForwardKinematics.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/kinematics/ForwardKinematics.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/kinematics/KinematicsModule.cpp.o -c /home/xyt/UT/zj_end/utwalk/kinematics/KinematicsModule.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/kinematics/KinematicsModule.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/math/Geometry.cpp.o -c /home/xyt/UT/zj_end/utwalk/math/Geometry.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/math/Geometry.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/common/PIDController.cpp.o -c /home/xyt/UT/zj_end/utwalk/common/PIDController.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/common/PIDController.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/utwalk/motion/WalkEngineParameters.cpp.o -c /home/xyt/UT/zj_end/utwalk/motion/WalkEngineParameters.cpp",
+  "file": "/home/xyt/UT/zj_end/utwalk/motion/WalkEngineParameters.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/kalman/BallKF.cpp.o -c /home/xyt/UT/zj_end/kalman/BallKF.cpp",
+  "file": "/home/xyt/UT/zj_end/kalman/BallKF.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/kalman/PlayerKF.cpp.o -c /home/xyt/UT/zj_end/kalman/PlayerKF.cpp",
+  "file": "/home/xyt/UT/zj_end/kalman/PlayerKF.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/kalman/OrigKalmanFilter.cpp.o -c /home/xyt/UT/zj_end/kalman/OrigKalmanFilter.cpp",
+  "file": "/home/xyt/UT/zj_end/kalman/OrigKalmanFilter.cpp"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/optimization/optimizationbehaviors.cc.o -c /home/xyt/UT/zj_end/optimization/optimizationbehaviors.cc",
+  "file": "/home/xyt/UT/zj_end/optimization/optimizationbehaviors.cc"
+},
+{
+  "directory": "/home/xyt/UT/zj_end/build",
+  "command": "/usr/bin/g++   -I/home/xyt/UT/zj_end/utwalk -I/usr/local/include/simspark  -Wall -Wextra -Wno-unused -O2 -g -DNDEBUG   -o CMakeFiles/agentspark.dir/stats/recordstatsbehavior.cc.o -c /home/xyt/UT/zj_end/stats/recordstatsbehavior.cc",
+  "file": "/home/xyt/UT/zj_end/stats/recordstatsbehavior.cc"
+}
+]
